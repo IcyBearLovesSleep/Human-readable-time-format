@@ -1,3 +1,4 @@
+# Formats a time in a human readable string.
 def format_duration(seconds):
     times = [("yr", 365 * 24 * 60 * 60), 
             ("day", 24 * 60 * 60),
